@@ -6,12 +6,30 @@ categories: rubyonrails security
 ---
 This article will be about client side certificate authentication - a concept foreign to average RoR developer. This method of authenticating users is used internally in big corporations, where security is top priority. Though you might not be aquainted with the concept, let me explain this method first.
 
-{% highlight ruby %}
-def generate_cert(name)
-  #TODO code
-end
-generate_cert('tom')
-#=> generates certificate for tom
+{% highlight nginx %}
+
+server {
+    listen 80;
+    listen 443 ssl;
+    ssl    on;
+
+    server_name yoursite.xyz;
+
+    ssl_certificate /etc/nginx/certs/server.crt;
+    ssl_certificate_key /etc/nginx/certs/server.key;
+    ssl_client_certificate /etc/nginx/certs/ca.crt;
+    ssl_verify_client optional;
+
+    location / {
+        proxy_set_header X-Real-IP  $remote_addr;
+        proxy_set_header X-FORWARDED_PROTO https;
+        proxy_set_header X-SSL-Client-S-DN   $ssl_client_cert;
+        proxy_set_header X-CLIENT-VERIFY $ssl_client_verify;
+
+        proxy_pass http://127.0.0.1:2017;
+    }
+}
+
 {% endhighlight %}
 
 Check out more about client side certificates [here][wiki-cert].
