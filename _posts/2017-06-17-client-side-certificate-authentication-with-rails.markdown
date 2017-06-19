@@ -4,7 +4,7 @@ title:  "Client Side Certificate Authentication with Ruby on Rails"
 date:   2017-06-17 20:29:36 +0200
 categories: rubyonrails security
 ---
-This article will be about client side certificate authentication - a concept foreign to average RoR developer. This method of authenticating users is used internally in big corporations, where security is top priority. Though you might not be aquainted with the concept, let me explain this method first.
+This article will be about client side certificate authentication - a concept propably foreign to average RoR developer. This method of authenticating users is used internally in big corporations, where security is top priority. Because some of you migth not be fammiliar with this concept allow me to make a brief introduction.
 
 {% highlight nginx %}
 

@@ -1,0 +1,16 @@
+---
+---
+
+$brand-color:      #159957 !default;
+
+@import "minima";
+// change code background color
+pre, code {
+  font-size: 15px;
+  border: solid 1px #dce6f0;
+  background-color: #f3f6fa;
+  border-radius: 3px;
+}
+
+@import "github_styles.css";
+

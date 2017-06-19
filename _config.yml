@@ -1,16 +1,18 @@
 # Site settings
-title: Piotr Olchawa
+title: ./secure.rb --by "Piotrek Olchawa"
+author: Piotrek Olchawa
 email: piotrekolchawa@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Software security, programming.
+  Software security, programming and braking stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "0x41.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://0x41.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 2easy_sec
 github_username:  2easy
 
 # Build settings
 markdown: kramdown
 theme: minima
+github: [metadata]
 gems:
   - jekyll-feed
 exclude:
