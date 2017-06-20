@@ -3,10 +3,10 @@ title: ./secure.rb --by "Piotrek Olchawa"
 author: Piotrek Olchawa
 email: piotrekolchawa@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Software security, programming and braking stuff.
+  Bugs kill people.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://0x41.xyz" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 2easy_sec
+twitter_username: BugsKillPeople
 github_username:  2easy
 
 # Build settings
