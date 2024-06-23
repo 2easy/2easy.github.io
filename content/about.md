@@ -1,31 +1,13 @@
 ---
 title: "About"
-date: 2023-12-18T18:18:04+07:00
+date: 2024-06-23
 draft: false
-description: This my next awesome post about stuff that my audience love to read.
-featured_image: ../assets/images/defaults/featured_image.jpg
+description: What do we do?
+featured_image: ../assets/images/cohort-analysis.jpg
 ---
 
-# Advocating for better work ethics
-> lorem
+# Making sense of data
 
-## Title
-
-Some text
-
-- list
-
-- [ ] list
-
-- [x] list
-
-```
-Text
-```
-**Hello**
-
----
-
-### Title
-
-### Title
+Our data experience revolves around data and engineering for both SMEs and enterprise companies. We
+help our customers get business value from their data in the quickest way possible. Our services range
+from data strategy, design to implementation and training.

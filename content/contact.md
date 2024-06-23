@@ -1,9 +1,9 @@
 ---
 title: "Contact"
-date: 2023-12-18T18:20:23+07:00
+date: 2024-06-24T18:20:23+07:00
 draft: false
-description: This my next awesome post about stuff that my audience love to read.
-featured_image: ../assets/images/defaults/featured_image.jpg
+description: Contact Information
+featured_image: ../assets/images/contact.jpg
 ---
 
 # Tell us about your plans
