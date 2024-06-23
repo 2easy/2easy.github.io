@@ -17,8 +17,8 @@ params:
   description: "Data Engineering & Analytics made easy."
   google_analytics_id: "" # @NOTE: To remove the G2A tag, juste leave this key to an empty string.
   cta:
-    text: Book a free consultation
-    url: /contact
+    text: BOOK A FREE CONSULT
+    url: https://calendly.com/piotrolchawa3/30min
   footer:
     social_url: https://x.com/piotr_olchawa
     social_username: "@piotr_olchawa"
