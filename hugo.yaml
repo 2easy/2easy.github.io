@@ -1,5 +1,5 @@
-baseURL: 'https://minimal-marketing.pages.dev'
-title: 'Minimal Marketing'
+baseURL: "https://piotrolchawa.com"
+title: "Data Consulting"
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -10,19 +10,18 @@ paginate: 9
 enableInlineShortcodes: true
 
 params:
-  author:
+  author: Piotr Olchawa
   author_image: /images/defaults/author.jpg
   og_image: /images/defaults/featured_image.jpg
-  moto: "Learn marketing at a minimal cost."
-  description: "This website costs only $10/year to host. Which leaves you plenty of room to experiment with your time without burning cash on marketing."
-  google_analytics_id: '' # @NOTE: To remove the G2A tag, juste leave this key to an empty string.
+  moto: "Transforming data into insights, insights into action."
+  description: "Data Engineering & Analytics made easy."
+  google_analytics_id: "" # @NOTE: To remove the G2A tag, juste leave this key to an empty string.
   cta:
-    text: Book a meeting
-    url: https://www.youtube.com/watch?v=oHg5SJYRHA0
+    text: Book a free consultation
+    url: /contact
   footer:
-    social_url: https://twitter.com/afrodudeonabike
-    social_username: '@afrodudeonabike'
-
+    social_url: https://x.com/piotr_olchawa
+    social_username: "@piotr_olchawa"
 
 taxonomies:
   category: Categories
