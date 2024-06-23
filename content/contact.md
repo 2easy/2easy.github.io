@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-date: 2024-06-24T18:20:23+07:00
+date: 2024-06-22T18:20:23+07:00
 draft: false
 description: Contact Information
 featured_image: ../assets/images/contact.jpg
@@ -8,7 +8,7 @@ featured_image: ../assets/images/contact.jpg
 
 # Tell us about your plans
 
-<form action="#" method="POST" class="">
+<form action="https://formsubmit.co/pitches.recons.0x@icloud.com" method="POST" class="">
   <div class="">
     <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
       <div>
