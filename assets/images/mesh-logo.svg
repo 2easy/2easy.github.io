@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs/>
+  <rect x="97.587" y="201.224" width="10.062" height="100.584" style="stroke: rgb(0, 0, 0);"/>
+  <rect x="391.365" y="198.785" width="10.062" height="100.584" style="stroke: rgb(0, 0, 0);"/>
+  <rect x="181.387" y="98.985" width="10.062" height="100.584" style="stroke: rgb(0, 0, 0); transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(0.5, 0.866025, -0.866025, 0.5, -8.858814, -28.240484)"/>
+  <rect x="314.992" y="83.872" width="10.062" height="100.584" style="stroke: rgb(0, 0, 0); transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(0.5, 0.866025, -0.866025, 0.5, 2.459631, 243.97959)"/>
+  <rect x="314.992" y="83.872" width="10.062" height="100.584" style="stroke: rgb(0, 0, 0); transform-origin: 320.023px 134.164px;" transform="matrix(0.5, -0.866025, 0.866025, 0.5, -144.570092, 244.561078)"/>
+  <rect x="314.992" y="83.872" width="10.062" height="100.584" style="stroke: rgb(0, 0, 0); transform-origin: 320.023px 134.164px;" transform="matrix(0.5, -0.866025, 0.866025, 0.5, 4.302901, -13.475208)"/>
+  <rect x="181.387" y="98.985" width="10.062" height="100.584" style="stroke: rgb(0, 0, 0); transform-origin: 186.418px 149.277px;" transform="matrix(0.5, 0.866025, -0.866025, 0.5, 136.534114, 57.591354)"/>
+  <rect x="181.387" y="98.985" width="10.062" height="100.584" style="stroke: rgb(0, 0, 0); transform-origin: 186.418px 149.277px;" transform="matrix(0.5, -0.866025, 0.866025, 0.5, 136.113914, 142.109364)"/>
+  <rect x="181.387" y="98.985" width="10.062" height="100.584" style="stroke: rgb(0, 0, 0); transform-origin: 186.418px 149.277px;" transform="matrix(0.5, -0.866025, 0.866025, 0.5, -12.518212, 58.703162)"/>
+  <rect x="180.264" y="219.896" width="10" height="223.448" style="stroke: rgb(0, 0, 0); transform-origin: 185.264px 331.62px;" transform="matrix(0.866025, 0.5, -0.5, 0.866025, -7.550914, -122.97972)"/>
+  <rect x="180.264" y="219.896" width="10" height="223.448" style="transform-origin: 185.264px 331.62px; fill: rgb(146, 146, 146); stroke: rgb(146, 146, 146);" transform="matrix(0.866025, 0.5, -0.5, 0.866025, 139.720444, -38.442157)"/>
+  <rect x="180.264" y="219.896" width="10" height="223.448" style="stroke: rgb(0, 0, 0); transform-origin: 185.264px 331.62px;" transform="matrix(0.866025, -0.5, 0.5, 0.866025, 137.862906, -124.57464)"/>
+  <path d="M 396.264 334.497 m -40 0 a 40 40 0 1 0 80 0 a 40 40 0 1 0 -80 0 Z M 396.264 334.497 m -30 0 a 30 30 0 0 1 60 0 a 30 30 0 0 1 -60 0 Z" style="stroke: rgb(0, 0, 0);" bx:shape="ring 396.264 334.497 30 30 40 40 1@11fa1d26"/>
+  <path d="M 396.268 165.529 m -40 0 a 40 40 0 1 0 80 0 a 40 40 0 1 0 -80 0 Z M 396.268 165.529 m -30 0 a 30 30 0 0 1 60 0 a 30 30 0 0 1 -60 0 Z" style="stroke: rgb(0, 0, 0);" bx:shape="ring 396.268 165.529 30 30 40 40 1@a3a413f0"/>
+  <path d="M 250 80.815 m -40 0 a 40 40 0 1 0 80 0 a 40 40 0 1 0 -80 0 Z M 250 80.815 m -30 0 a 30 30 0 0 1 60 0 a 30 30 0 0 1 -60 0 Z" style="stroke: rgb(0, 0, 0);" bx:shape="ring 250 80.815 30 30 40 40 1@a552c6d9"/>
+  <rect x="180.264" y="219.896" width="10" height="223.448" style="transform-origin: 185.264px 331.62px; paint-order: fill; stroke: rgb(146, 146, 146); fill: rgb(146, 146, 146);" transform="matrix(0.866025, -0.5, 0.5, 0.866025, -7.733841, -40.11333)"/>
+  <rect x="181.387" y="98.985" width="10.062" height="100.584" style="stroke: rgb(0, 0, 0); transform-origin: 186.418px 149.277px;" transform="matrix(0.5, 0.866025, -0.866025, 0.5, -7.912984, 142.092762)"/>
+  <path d="M 104.169 164.293 m -40 0 a 40 40 0 1 0 80 0 a 40 40 0 1 0 -80 0 Z M 104.169 164.293 m -30 0 a 30 30 0 0 1 60 0 a 30 30 0 0 1 -60 0 Z" style="stroke: rgb(0, 0, 0);" bx:shape="ring 104.169 164.293 30 30 40 40 1@76a2d0e4"/>
+  <path d="M 104.321 336.164 m -40 0 a 40 40 0 1 0 80 0 a 40 40 0 1 0 -80 0 Z M 104.321 336.164 m -30 0 a 30 30 0 0 1 60 0 a 30 30 0 0 1 -60 0 Z" style="stroke: rgb(0, 0, 0);" bx:shape="ring 104.321 336.164 30 30 40 40 1@84e71c00"/>
+  <path d="M 250 419.268 m -40 0 a 40 40 0 1 0 80 0 a 40 40 0 1 0 -80 0 Z M 250 419.268 m -30 0 a 30 30 0 0 1 60 0 a 30 30 0 0 1 -60 0 Z" style="stroke: rgb(0, 0, 0);" bx:shape="ring 250 419.268 30 30 40 40 1@ae02d99b"/>
+  <path d="M 250 250 m -40 0 a 40 40 0 1 0 80 0 a 40 40 0 1 0 -80 0 Z M 250 250 m -30 0 a 30 30 0 0 1 60 0 a 30 30 0 0 1 -60 0 Z" style="stroke: rgb(0, 0, 0);" bx:shape="ring 250 250 30 30 40 40 1@bcdd8d1a"/>
+</svg>
