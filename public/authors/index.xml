@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Piotr Olchawa</title>
-    <link>http://localhost:58977/authors/</link>
+    <link>https://piotrolchawa.com/authors/</link>
     <description>Recent content in Authors on Piotr Olchawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Piotr Olchawa</copyright>
-    <atom:link href="http://localhost:58977/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://piotrolchawa.com/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
