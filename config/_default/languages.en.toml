@@ -1,0 +1,14 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Piotr Olchawa"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[author]
+name = "Piotr Olchawa"
+image = "IMG_0953.png"
