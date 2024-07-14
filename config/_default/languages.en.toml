@@ -12,3 +12,4 @@ dateFormat = "2 January 2006"
 [author]
 name = "Piotr Olchawa"
 image = "IMG_0953.png"
+links = [ { github = "https://github.com/2easy" }, { linkedin = "https://www.linkedin.com/in/polchawa/" }, { x-twitter = "https://x.com/piotr_olchawa" } ]
